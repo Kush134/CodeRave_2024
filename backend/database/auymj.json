@@ -1,0 +1,188 @@
+{
+    "summary": "**Overview**\n\nQuantum computers offer significant advancements over classical computers due to their ability to harness quantum properties for computation, particularly superposition and entanglement.\n\n**Components and Limitations of Classical Computers**\n\n* Computers consist of basic elements: data representation, processing, and control.\n* Transistors are the simplest data processors, acting as switches to control electron flow.\n* Quantum tunneling poses a physical barrier for miniaturizing transistors as electrons can bypass blocked passages.\n\n**Quantum Computers: Leveraging Quantum Properties**\n\n* **Qubits:** Quantum computers use qubits, which can exist in multiple states simultaneously (superposition).\n* **Superposition:** Qubits allow for exponential increases in storage capacity compared to classical bits.\n* **Entanglement:** Qubits can be connected, allowing instantaneous changes in state to affect other entangled qubits regardless of distance.\n* **Quantum Gates:** Manipulate probabilistic superpositions to produce new superpositions as outputs.\n\n**Advantages of Quantum Computers**\n\n* **Database Searching:** Quantum algorithms can search databases in square root time, a significant improvement over linear time in classical algorithms.\n* **Cryptography Breaking:** Quantum computers could potentially break current encryption methods, posing security risks.\n* **Simulations:** Quantum simulations can provide accurate insights into quantum systems, revolutionizing fields like medicine.\n\n**Conclusion**\n\nQuantum computers are promising but still under development, with unknown limits. They offer potential breakthroughs for specific applications, particularly in areas where superposition and entanglement are key factors.",
+    "flash_cards": [
+        ["Computer", "A machine that can be instructed by a program to carry out a set of operations."],
+        ["Transistor", "A device that acts as a switch to control the flow of electricity in a circuit."],
+        ["Bit", "A unit of information that can have a value of 0 or 1."],
+        ["Logic gate", "A circuit that performs a logical operation on input signals and produces an output signal."],
+        ["AND Gate", "A logic gate that outputs 1 if all of its inputs are 1, and 0 otherwise."],
+        [
+            "Quantum tunneling",
+            "A process by which an electron can pass through a potential barrier even if it does not have enough energy to do so."
+        ],
+        ["Qubit", "A quantum-mechanical system with two possible states, representing 0 and 1."],
+        [
+            "Superposition",
+            "A quantum-mechanical principle that states that a system can exist in multiple states at the same time."
+        ],
+        [
+            "Entanglement",
+            "A quantum-mechanical phenomenon in which two or more particles are linked in such a way that the state of one particle can instantaneously affect the state of the others."
+        ],
+        ["Database searching", "A process of searching for a particular item in a database."]
+    ],
+    "quiz": [
+        {
+            "question": "A circuit that performs a logical operation on input signals and produces an output signal.",
+            "possible_answers": ["Entanglement", "Transistor", "Qubit", "Logic gate"],
+            "index": 3
+        },
+        {
+            "question": "Qubit",
+            "possible_answers": [
+                "A quantum-mechanical system with two possible states, representing 0 and 1.",
+                "A quantum-mechanical phenomenon in which two or more particles are linked in such a way that the state of one particle can instantaneously affect the state of the others.",
+                "A circuit that performs a logical operation on input signals and produces an output signal.",
+                "A process of searching for a particular item in a database."
+            ],
+            "index": 0
+        },
+        {
+            "question": "What is a key difference between qubits and classical bits?",
+            "possible_answers": [
+                "Qubits are faster than classical bits.",
+                "Qubits can be in a superposition of states.",
+                "Qubits require less energy than classical bits.",
+                "Qubits are more powerful than classical bits."
+            ],
+            "index": 1
+        },
+        {
+            "question": "Quantum tunneling",
+            "possible_answers": [
+                "A process of searching for a particular item in a database.",
+                "A quantum-mechanical phenomenon in which two or more particles are linked in such a way that the state of one particle can instantaneously affect the state of the others.",
+                "A logic gate that outputs 1 if all of its inputs are 1, and 0 otherwise.",
+                "A process by which an electron can pass through a potential barrier even if it does not have enough energy to do so."
+            ],
+            "index": 3
+        },
+        {
+            "question": "What is the approximate size of a typical transistor in today's computers?",
+            "possible_answers": [
+                "All of the above",
+                "500 times smaller than a red blood cell",
+                "14 nanometers",
+                "8 times less than the HIV virus' diameter"
+            ],
+            "index": 0
+        },
+        {
+            "question": "Computer",
+            "possible_answers": [
+                "A circuit that performs a logical operation on input signals and produces an output signal.",
+                "A machine that can be instructed by a program to carry out a set of operations.",
+                "A unit of information that can have a value of 0 or 1.",
+                "A quantum-mechanical phenomenon in which two or more particles are linked in such a way that the state of one particle can instantaneously affect the state of the others."
+            ],
+            "index": 1
+        },
+        {
+            "question": "What is Entanglement in quantum computing?",
+            "possible_answers": [
+                "A close connection that makes qubits react to changes in each other's state.",
+                "A property of qubits that allows them to be in a superposition of states.",
+                "A way to manipulate qubits without measuring them.",
+                "A type of quantum gate."
+            ],
+            "index": 0
+        },
+        {
+            "question": "Which of the following is NOT a potential application of quantum computers?",
+            "possible_answers": ["Database searching", "Medical simulations", "Security", "Weather forecasting"],
+            "index": 3
+        },
+        {
+            "question": "A process of searching for a particular item in a database.",
+            "possible_answers": ["Computer", "AND Gate", "Database searching", "Superposition"],
+            "index": 2
+        },
+        {
+            "question": "What is the name of the famous encryption system currently being used to secure data?",
+            "possible_answers": ["AES", "DES", "SHA", "RSA"],
+            "index": 3
+        },
+        {
+            "question": "Transistor",
+            "possible_answers": [
+                "A process by which an electron can pass through a potential barrier even if it does not have enough energy to do so.",
+                "A logic gate that outputs 1 if all of its inputs are 1, and 0 otherwise.",
+                "A process of searching for a particular item in a database.",
+                "A device that acts as a switch to control the flow of electricity in a circuit."
+            ],
+            "index": 3
+        },
+        {
+            "question": "AND Gate",
+            "possible_answers": [
+                "A process of searching for a particular item in a database.",
+                "A quantum-mechanical principle that states that a system can exist in multiple states at the same time.",
+                "A machine that can be instructed by a program to carry out a set of operations.",
+                "A logic gate that outputs 1 if all of its inputs are 1, and 0 otherwise."
+            ],
+            "index": 3
+        },
+        {
+            "question": "Entanglement",
+            "possible_answers": [
+                "A quantum-mechanical phenomenon in which two or more particles are linked in such a way that the state of one particle can instantaneously affect the state of the others.",
+                "A logic gate that outputs 1 if all of its inputs are 1, and 0 otherwise.",
+                "A process by which an electron can pass through a potential barrier even if it does not have enough energy to do so.",
+                "A quantum-mechanical system with two possible states, representing 0 and 1."
+            ],
+            "index": 0
+        },
+        {
+            "question": "What is a quantum gate?",
+            "possible_answers": [
+                "A device that manipulates qubits.",
+                "A type of quantum computer.",
+                "An algorithm for quantum computing.",
+                "A method for measuring qubits."
+            ],
+            "index": 0
+        },
+        {
+            "question": "What is the process by which electrons can transfer themselves across a blocked passage in quantum physics?",
+            "possible_answers": ["Quantum Tunneling", "Superposition", "Entanglement", "Qubit Manipulation"],
+            "index": 0
+        },
+        {
+            "question": "What is a potential advantage of quantum computers over traditional computers?",
+            "possible_answers": [
+                "Ability to simulate quantum systems more accurately.",
+                "Increased storage capacity.",
+                "Reduced energy consumption.",
+                "Exponential speed-up for certain tasks."
+            ],
+            "index": 3
+        },
+        {
+            "question": "A unit of information that can have a value of 0 or 1.",
+            "possible_answers": ["Computer", "AND Gate", "Superposition", "Bit"],
+            "index": 3
+        },
+        {
+            "question": "Superposition",
+            "possible_answers": [
+                "A process of searching for a particular item in a database.",
+                "A quantum-mechanical system with two possible states, representing 0 and 1.",
+                "A unit of information that can have a value of 0 or 1.",
+                "A quantum-mechanical principle that states that a system can exist in multiple states at the same time."
+            ],
+            "index": 3
+        },
+        {
+            "question": "What is the smallest unit of information in a traditional computer?",
+            "possible_answers": ["Byte", "Bit", "Transistor", "Qubit"],
+            "index": 1
+        },
+        {
+            "question": "Who said, \"A large enough bunch of 7-year-olds answering really basic math questions could compute anything from astrophysics to Zelda.\"?",
+            "possible_answers": ["Elon Musk", "Stephen Hawking", "Neil deGrasse Tyson", "Kurzgesagt"],
+            "index": 3
+        }
+    ],
+    "title": "Quantum Computing: Approaching the Limits of Classical Technology",
+    "id": "auymj"
+}

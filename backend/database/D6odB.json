@@ -1,0 +1,161 @@
+{
+    "summary": "**Overview: The Limits of Classical Computers and the Potential of Quantum Computing**\n\n**Classical Computers:**\n\n- Consist of simple components (data representation, processing, control) organized in hierarchical structures\n- Compute by manipulating bits (discrete units of information with values 0 or 1)\n- Combinations of bits represent more complex information\n- Compute by combining logic gates (e.g., AND Gates) to perform basic operations (e.g., addition)\n- As components shrink, quantum effects (e.g., quantum tunneling) become significant\n\n**Quantum Computers:**\n\n- Utilize qubits (quantum bits) that can exist in a superposition of states, representing both 0 and 1 simultaneously\n- Exploit superposition and entanglement (instantaneous connections between qubits)\n- Quantum gates manipulate qubits in superpositions and rotate probabilities\n- Final measurements collapse superpositions, producing a specific sequence of 0s and 1s\n- Provide exponential speed-ups compared to classical computers in certain areas (e.g., database searching)\n\n**Applications of Quantum Computers:**\n\n- **Database Searching:** Faster searching algorithms\n- **Cryptography:** Breaking current encryption systems\n- **Simulations:** Accurate simulations of quantum systems, including molecules",
+    "flash_cards": [
+        [
+            "Quantum Tunneling",
+            "Process in which electrons may transfer themselves to the other side of a blocked passage"
+        ],
+        ["Transistor", "Simplest form of a data processor in computers"],
+        ["Bit", "Smallest unit of information in normal computers"],
+        ["Qubits", "Smallest unit of information in quantum computers"],
+        ["Photon", "Can be a qubit that uses horizontal or vertical polarization"],
+        ["Superposition", "Can be in any proportions of both states(0 and 1) at once"],
+        [
+            "Qubit Manipulation",
+            "Can manipulate input superpositions, rotate probabilities, and produce another superposition as output"
+        ],
+        ["Quantum Gates", "Manipulate an input of superpositions"],
+        [
+            "Entanglement",
+            "Close connection that makes each of the qubits react to a change in the other's state instantaneously"
+        ],
+        [
+            "Database Searching",
+            "Quantum computer algorithms need only the square root of the time a normal computer would take"
+        ]
+    ],
+    "quiz": [
+        {
+            "question": "What is the simplest form of a data processor in computers?",
+            "possible_answers": ["Logic gate", "Bit", "Transistor", "Module"],
+            "index": 2
+        },
+        {
+            "question": "What is the smallest unit of information in a quantum computer?",
+            "possible_answers": ["Qudit", "Qubit", "Bit", "Byte"],
+            "index": 1
+        },
+        {
+            "question": "Which of the following is a unique property of qubits?",
+            "possible_answers": ["Parallel processing", "Quantum tunneling", "Superposition", "Entanglement"],
+            "index": 2
+        },
+        {
+            "question": "What is the advantage of quantum computers over classical computers for database searching?",
+            "possible_answers": ["No speedup", "Quadratic speedup", "Exponential speedup", "Linear speedup"],
+            "index": 2
+        },
+        {
+            "question": "Which of the following is NOT a potential application of quantum computers?",
+            "possible_answers": ["Word processing", "Simulations", "IT security", "Database searching"],
+            "index": 0
+        },
+        {
+            "question": "What is the process by which electrons may transfer themselves across a blocked passage in quantum physics?",
+            "possible_answers": ["Entanglement", "Relativity", "Superposition", "Quantum tunneling"],
+            "index": 3
+        },
+        {
+            "question": "Which of the following is a component of a computer chip?",
+            "possible_answers": ["Bit", "Logic gate", "Module", "Transistor"],
+            "index": 2
+        },
+        {
+            "question": "What is the reason why traditional computers stop making sense as transistors shrink to the size of a few atoms?",
+            "possible_answers": ["Quantum tunneling", "Relativity", "Superposition", "Entanglement"],
+            "index": 0
+        },
+        {
+            "question": "What is the primary advantage of using qubits in quantum computers?",
+            "possible_answers": [
+                "Reduced energy consumption",
+                "Ability to perform parallel operations",
+                "Increased processing speed",
+                "Enhanced data storage capacity"
+            ],
+            "index": 1
+        },
+        {
+            "question": "What is a quantum gate?",
+            "possible_answers": [
+                "A theoretical concept in quantum mechanics",
+                "A type of quantum algorithm",
+                "A component of a quantum computer",
+                "A device that manipulates qubits"
+            ],
+            "index": 3
+        },
+        {
+            "question": "Process in which electrons may transfer themselves to the other side of a blocked passage",
+            "possible_answers": ["Transistor", "Quantum Tunneling", "Bit", "Superposition"],
+            "index": 1
+        },
+        {
+            "question": "Transistor",
+            "possible_answers": [
+                "Process in which electrons may transfer themselves to the other side of a blocked passage",
+                "Close connection that makes each of the qubits react to a change in the other's state instantaneously",
+                "Simplest form of a data processor in computers",
+                "Smallest unit of information in normal computers"
+            ],
+            "index": 2
+        },
+        {
+            "question": "Bit",
+            "possible_answers": [
+                "Can be a qubit that uses horizontal or vertical polarization",
+                "Smallest unit of information in normal computers",
+                "Can be in any proportions of both states(0 and 1) at once",
+                "Process in which electrons may transfer themselves to the other side of a blocked passage"
+            ],
+            "index": 1
+        },
+        {
+            "question": "Qubits",
+            "possible_answers": [
+                "Smallest unit of information in normal computers",
+                "Smallest unit of information in quantum computers",
+                "Can manipulate input superpositions, rotate probabilities, and produce another superposition as output",
+                "Manipulate an input of superpositions"
+            ],
+            "index": 1
+        },
+        {
+            "question": "Can be a qubit that uses horizontal or vertical polarization",
+            "possible_answers": ["Database Searching", "Photon", "Transistor", "Qubits"],
+            "index": 1
+        },
+        {
+            "question": "Superposition",
+            "possible_answers": [
+                "Process in which electrons may transfer themselves to the other side of a blocked passage",
+                "Can be in any proportions of both states(0 and 1) at once",
+                "Quantum computer algorithms need only the square root of the time a normal computer would take",
+                "Can manipulate input superpositions, rotate probabilities, and produce another superposition as output"
+            ],
+            "index": 1
+        },
+        {
+            "question": "Can manipulate input superpositions, rotate probabilities, and produce another superposition as output",
+            "possible_answers": ["Qubit Manipulation", "Photon", "Transistor", "Quantum Tunneling"],
+            "index": 0
+        },
+        {
+            "question": "Manipulate an input of superpositions",
+            "possible_answers": ["Quantum Gates", "Database Searching", "Transistor", "Superposition"],
+            "index": 0
+        },
+        {
+            "question": "Close connection that makes each of the qubits react to a change in the other's state instantaneously",
+            "possible_answers": ["Bit", "Quantum Tunneling", "Transistor", "Entanglement"],
+            "index": 3
+        },
+        {
+            "question": "Quantum computer algorithms need only the square root of the time a normal computer would take",
+            "possible_answers": ["Photon", "Quantum Tunneling", "Database Searching", "Quantum Gates"],
+            "index": 2
+        }
+    ],
+    "title": "Quantum Computing: The Future of Technology and Its Limits",
+    "id": "D6odB"
+}
